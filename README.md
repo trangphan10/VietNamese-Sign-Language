@@ -7,15 +7,16 @@ Dữ liệu: 250 dữ liệu video từ https://facundoq.github.io/datasets/lsa6
 
 Đánh giá: 
 
-1. Xét trên tập dữ liệu chưa tăng cường: Độ chính xác của Mediapipe cao hơn gấp đôi so với mô hình CNN
+1. Xét trên tập dữ liệu chưa tăng cường: Độ chính xác của Mediapipe vượt trội gập 3 lần so với mô hình CNN
 
 2. Xét trên tập dữ liệu tăng cường:
 
-   - Độ chính xác với phương pháp Mediapipe + LSTM: 97%
-   - Độ chính xác với phương pháp CNN + LSTM tốt nhất: 94%
+   - Độ chính xác với phương pháp Mediapipe + LSTM: 37%
+   - Độ chính xác với phương pháp ResNet50 + LSTM tốt nhất: 83%
   
 Kết luận: 
 - Ưu tiên phát triển theo hướng tiếp cận Mediapipe + LSTM
 - Nghiên cứu phương pháp tăng cường dữ liệu sử dụng thuật toán di truyền
 
 
+%
